@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+*.exe
